@@ -1,0 +1,6 @@
+{
+  "name": "राजा मिस्त्री",
+  "description": "एक चिट्ठी • चार किरदार • एक चोर - Raja Mantri Chor Sipahi offline pass-and-play game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
